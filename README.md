@@ -1,25 +1,7 @@
-# JavaScript Algorithms and Data Structures
+# JavaScript Data Structures
 
 [![Build Status](https://travis-ci.org/trekhleb/javascript-algorithms.svg?branch=master)](https://travis-ci.org/trekhleb/javascript-algorithms)
 [![codecov](https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
-
-This repository contains JavaScript based examples of many
-popular algorithms and data structures.
-
-Each algorithm and data structure has its own separate README
-with related explanations and links for further reading (including ones
-to YouTube videos).
-
-_Read this in other languages:_
-[_简体中文_](README.zh-CN.md),
-[_繁體中文_](README.zh-TW.md),
-[_한국어_](README.ko-KR.md),
-[_Polski_](README.pl-PL.md),
-[_Français_](README.fr-FR.md)
-
-> We’re writing a book that will clearly explain, in detail, the main algorithms. 
-If you’d like to be notified when the “JavaScript Algorithms” book 
-launches, [click here](https://upscri.be/402324/).
 
 ## Data Structures
 
